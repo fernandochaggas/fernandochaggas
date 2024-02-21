@@ -17,7 +17,7 @@ Meu objetivo é continuar aprendendo e crescendo como desenvolvedor web. Estou s
 #### 🌐 Onde me encontrar:
  <a href="https://www.linkedin.com/in/fernando-pro/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <br>
- <a href="mailto:fernando.chaggas@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+ 
  <br>
 
 ![Fernando stats](https://github-readme-stats.vercel.app/api?username=fernandochaggas&theme=flag-india_icons=true)
