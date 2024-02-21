@@ -1,5 +1,5 @@
 
-### Olá, eu sou [Fernando Chagas]! 👋
+### Olá, eu sou Fernando Chagas! 
 
 Sou um desenvolvedor web, estou contantemente desbravando o mundo dos códigos. Minha jornada começou com HTML, CSS e JavaScript e desde então tenho mergulhado cada vez mais fundo nesse universo fascinante.
 
