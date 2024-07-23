@@ -19,5 +19,5 @@ Meu objetivo é continuar aprendendo e crescendo como desenvolvedor web. Estou s
  
  <br>
 
-![Fernando stats](https://github-readme-stats.vercel.app/api?username=fernandochaggas&theme=flag-india_icons=true)
+![Fernando stats](https://github-readme-stats.vercel.app/api?username=fernandochaggas&show_icons=true&theme=transparent)
 
